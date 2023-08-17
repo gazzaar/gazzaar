@@ -1,4 +1,13 @@
-### Hi there 👋
+## Environment 👨🏻‍💻
+
+- Running macOS.
+> Currently using MacBook Air with M1 chip.
+
+- Programming in JavaScript and Python.
+> Currently working on pojects to improve my MERN development skills.
+
+## Philosophy 📓
+Quality software is minimal software.
 
 <!--
 **fathyElgazar/fathyElgazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
