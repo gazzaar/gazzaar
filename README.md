@@ -7,7 +7,7 @@
 > Currently working on pojects to improve my MERN development skills.
 
 ## Philosophy 📓
-Quality software is minimal software.
+Quality software finds its essence in minimalism.
 
 <!--
 **fathyElgazar/fathyElgazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
