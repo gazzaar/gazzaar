@@ -3,7 +3,7 @@
 - Running macOS.
 > Currently using MacBook Air with M1 chip.
 
-- Programming in JavaScript and Python.
+- Programming in JavaScript, C, Scheme and Python.
 > Currently working on pojects to improve my MERN development skills.
 
 ## Philosophy 📓
