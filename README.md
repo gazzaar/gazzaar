@@ -9,6 +9,8 @@
 ## Philosophy 📓
 Quality software finds its essence in minimalism.
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gazzaar&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gazzaar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
