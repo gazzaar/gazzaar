@@ -9,9 +9,7 @@
 ## Philosophy 📓
 Quality software finds its essence in minimalism.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gazzaar.gazzaar&"  />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/{gazzaar}/count.svg)
 
 <br clear="both">
 
