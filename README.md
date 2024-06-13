@@ -1,5 +1,11 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gazzaar/gazzaar/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gazzaar/gazzaar/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gazzaar/gazzaar/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Environment 👨🏻‍💻
 
 - Running macOS.
