@@ -1,6 +1,6 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
-<h2 align="center">Hi 👋! My name is gazzaar and I'm a front-end developer, from Egypt.</h2>
+<h2 align="center">Hi 👋! My name is Fathy and I'm a front-end developer, from Egypt.</h2>
 
 ###
 
