@@ -1,6 +1,6 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
-<h2 align="center">Hi 👋! My name is Fathy and I'm a front-end developer, from Egypt.</h2>
+<h2 align="center">Hi 👋! My name is Fathy and I'm a full-stack developer, from Egypt.</h2>
 
 ###
 
@@ -10,6 +10,9 @@
 </div>
 
 ###
+
+- 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](teachyourselfcs.com) books and courses recommendations.
+- 📚 Currently following [The Odin Project](theodinproject.com) curriculum for my full-stack path.
 
 <br clear="both">
 
