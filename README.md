@@ -11,8 +11,8 @@
 
 ###
 
-- 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](teachyourselfcs.com) books and courses recommendations.
-- 📚 Currently following [The Odin Project](theodinproject.com) curriculum for my full-stack path.
+- 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](https://teachyourselfcs.com) books and courses recommendations.
+- 📚 Currently following [The Odin Project](https://theodinproject.com) curriculum for my full-stack path.
 
 <br clear="both">
 
