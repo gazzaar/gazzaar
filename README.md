@@ -36,7 +36,7 @@
 
 ###
 
-### Conatct with me:
+### Contact with me:
 <div align="left">
   <a href="https://gazzarDev@gamil.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
