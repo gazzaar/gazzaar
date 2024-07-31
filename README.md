@@ -2,19 +2,14 @@
 
 <h2 align="center">Hi 👋! My name is Fathy and I'm a full-stack developer, from Egypt.</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gazzaar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gazzaar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
-
 - 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](https://teachyourselfcs.com) books and courses recommendations.
 - 📚 Currently following [The Odin Project](https://theodinproject.com) curriculum for my full-stack path.
 
 <br clear="both">
+
+
 
 <img align="right" height="150" src="./images/sisyphean.png"  />
 
@@ -53,6 +48,16 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gazzaar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gazzaar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 <br clear="both">
 
