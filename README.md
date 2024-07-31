@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
+<img align="right" height="150" src="./images/sisyphean.png"  />
 
 ###
 
@@ -57,6 +57,5 @@
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/gazzaar/gazzaar/output/snake.svg" alt="Snake animation" /> -->
-
 
 ###
