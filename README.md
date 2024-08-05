@@ -1,8 +1,8 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
-<h2 align="center">Hi 👋! My name is Fathy and I'm a full-stack developer, from Egypt.</h2>
+<h2 >Hi 👋</h2>
 
-
+I'm a full-stack developer, Based in Cairo, Egypt 🇪🇬.
 ###
 - 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](https://teachyourselfcs.com) books and courses recommendations.
 - 📚 Currently following [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com/en/about/) curriculums for my full-stack journey.
