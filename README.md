@@ -5,7 +5,7 @@
 I'm a full-stack developer, Based in Cairo, Egypt 🇪🇬.
 ###
 - 📚 Currently learning the fundamentals of computer science by following the [Teach Yourself CS](https://teachyourselfcs.com) books and courses recommendations.
-- 📚 Currently following [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com/en/about/) curriculums for my full-stack journey.
+- 📚 Currently following [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com/en/) curriculums for my full-stack journey.
 
 <br clear="both">
 
