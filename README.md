@@ -14,8 +14,9 @@ I'm a full-stack developer, Based in Cairo, Egypt 🇪🇬.
 <img align="right" height="150" src="./images/sisyphean.png"  />
 
 ###
-
+<!---
 ### Languages and Tools:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -75,7 +76,7 @@ I'm a full-stack developer, Based in Cairo, Egypt 🇪🇬.
 </div>
 
 ###
-
+--->
 ### Contact with me:
 <div align="left">
   <a href="https://gazzarDev@gamil.com" target="_blank">
