@@ -4,10 +4,7 @@
 
 I'm a self-taught, full-stack software engineer based in Cairo, Egypt 🇪🇬.
 
-<h2>🌱 Currently:</h2>
 
-- Deepening my computer science knowledge through [Teach Yourself CS](https://teachyourselfcs.com)
-- Honing my full-stack skills via [The Odin Project](https://theodinproject.com) and  [Full Stack Open](https://fullstackopen.com/en/) curriculums.
 
 <img align="right" height="150" src="./images/sisyphean.png"  />
 
