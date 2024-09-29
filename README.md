@@ -2,7 +2,7 @@
 
 <h2 >Hi 👋</h2>
 
-I'm a self-taught, full-stack software engineer based in Cairo, Egypt 🇪🇬.
+I'm a full-stack software engineer based in Cairo, Egypt 🇪🇬.
 
 
 
