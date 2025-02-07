@@ -2,12 +2,11 @@
 
 I'm a full-stack software engineer based in Cairo, Egypt 🇪🇬.
 
-
-
+📚 Currently reading: [Grokking Algorithms](https://www.adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
 <!--<img align="right" height="150" src="./images/sisyphean.png"  /> -->
 
 
-### Contact with me:
+### Contact with me
 <div align="left">
   <a href="mailto:gazzarDev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
