@@ -7,7 +7,6 @@ I'm a full-stack software engineer based in Cairo, Egypt 🇪🇬.
 - [Grokking Algorithms](https://www.adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
 - [NodeJS Design Patterns](https://www.nodejsdesignpatterns.com/)
 - [Algorithms Unplugged](https://link.springer.com/book/10.1007/978-3-642-15328-0)
-  <img align="right" height="150" src="./images/sisyphean.png"  />
 
 ### Contact with me
 
