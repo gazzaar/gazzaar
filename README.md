@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer based in Cairo, Egypt 🇪🇬.
 
-📚 Currently reading:
+📚 Library:
 
 - [Grokking Algorithms](https://www.adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
 - [NodeJS Design Patterns](https://www.nodejsdesignpatterns.com/)
