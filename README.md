@@ -1,8 +1,8 @@
-<h2 >Hi 👋</h2>
+<h2 >Hi </h2>
 
 I'm a full-stack software engineer based in Cairo, Egypt 🇪🇬.
 
-📚 Library:
+ Library:
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/home.html)
 - [The Object-Oriented Thought Process](https://www.goodreads.com/book/show/4795641-the-object-oriented-thought-process)
 - [Grokking Algorithms](https://www.adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html)
