@@ -12,10 +12,11 @@ I'm a software engineer based in Cairo, Egypt 🇪🇬.
 
 <div align="left">
   <a href="mailto:fathy.aljazzar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  fathy.aljazzar@gmail.com
   </a>
+ <br/>
   <a href="https://www.linkedin.com/in/gazzaar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  LinkedIn
   </a>
 </div>
 
